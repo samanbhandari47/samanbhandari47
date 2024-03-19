@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Saman</h1>
-<h3 align="center">"A frontend developer who loves learning and creating things every day."</h3>
+<h3 align="left">"A frontend developer who loves learning and creating things every day."</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samanbhandari47&label=Profile%20views&color=0e75b6&style=flat" alt="samanbhandari47" /> </p>
 
@@ -7,7 +7,6 @@
 
 - 📫 How to reach me **samanbhandari3@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
